@@ -1,0 +1,39 @@
+//== Byte colors
+// Grapefruit
+@color-grapefruit-lighter:		rgba(248,157,156,1);
+@color-grapefruit-light:		rgba(245,124,123,1);
+@color-grapefruit:			rgba(241,99,98,1);
+@color-grapefruit-dark:		rgba(237,74,73,1);
+@color-grapefruit-darker:	rgba(213,66,66,1);
+
+// byte
+@color-byte-lighter-xxx:		rgba(237,248,252,1);
+@color-byte-lighter-xx:		rgba(220,242,250,1);
+@color-byte-lighter-x:		rgba(185,230,245,1);
+@color-byte-lighter:			rgba(115,205,234,1);
+@color-byte-light:			rgba(68,188,227,1);
+@color-byte:				rgba(54,166,218,1);
+@color-byte-dark:			rgba(40,144,209,1);
+@color-byte-darker:			rgba(36,129,188,1);
+@color-byte-darker-x:		rgba(0,64,103,1);
+
+// Orange
+@color-orange-lighter:		rgba(250,189,92,1);
+@color-orange-light:		rgba(248,167,38,1);
+@color-orange:			rgba(246,138,30,1);
+@color-orange-dark:		rgba(244,109,22,1);
+@color-orange-darker:		rgba(219,98,20,1);
+
+// Lime
+@color-lime-lighter:			rgba(157,216,117,1);
+@color-lime-light:			rgba(124,203,71,1);
+@color-lime:				rgba(99,185,57,1);
+@color-lime-dark:			rgba(74,167,43,1);
+@color-lime-darker:			rgba(66,150,39,1);
+
+// Lemon
+@color-lemon-lighter:		rgba(249,225,86,1);
+@color-lemon-light:			rgba(247,215,30,1);
+@color-lemon:				rgba(244,201,24,1);
+@color-lemon-dark:			rgba(241,187,18,1);
+@color-lemon-darker:		rgba(216,168,16,1);
